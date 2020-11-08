@@ -1,9 +1,9 @@
 # Site settings
 title: "gjuniioor"
 bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
-disqus: gjuniioor
+baseurl:
+url: "https://jongseok6598.github.io"
+disqus: 
 
 # Header settings
 nick: "gjuniioor"
