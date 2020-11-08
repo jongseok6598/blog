@@ -7,7 +7,7 @@ disqus:
 
 # Header settings
 nick: "jongseok"
-mail:"jongseok6598@gmail.com"
+mail:
     domain: "protonmail"
     ext: "ch"
 source_code:
