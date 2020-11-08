@@ -6,17 +6,17 @@ url: "https://jongseok6598.github.io"
 disqus: 
 
 # Header settings
-nick: "gjuniioor"
-mail:
+nick: "jongseok"
+mail:"jongseok6598@gmail.com"
     domain: "protonmail"
     ext: "ch"
 source_code:
     server: "github.com"
-    nick: "gjuniioor"
+    nick: "jongseok"
 blog:
     server: "wordpress.com"
-    nick: "gjuniioor"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+    nick: "jongseok"
+fingerprint_key: "안녕하세요"
 
 # Build settings
 markdown: kramdown
