@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Blog Posts"
-permalink: /blog/
+permalink: https://jongseok6598.github.io/blog/
 ---
 
 <ul class="posts">
