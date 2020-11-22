@@ -1,7 +1,7 @@
 # Site settings
 title: "jongseok"
 bye_message: "Thx!"
-baseurl: "/"
+baseurl: "/blog/"
 url: "https://jongseok6598.github.io"
 disqus: 
 
