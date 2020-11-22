@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "*Casts"
-permalink: /casts/
+title: "*Email"
+permalink: /email/
 ---
 
 jongseok6598@gmail.com
