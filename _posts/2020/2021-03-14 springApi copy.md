@@ -1,14 +1,15 @@
+```
 ---
 layout: post
 title:	"Springboot rest api"
-date:	2021-03-14 12:00:00
+date:	2021-09-19 12:00:00
 categories:
     - blog
 tags:
     - springboot
 ---
-Springboot api만드는법   
-스프링부트에서 api를 만들때는 서비스에서 만들고   
+list   
+크기가 안 정해져 있는     
 컨트롤러에서 요청한다   
 ***
 예
@@ -88,10 +89,4 @@ Springboot api만드는법
     }
 ]
 ```
-***
-resultCode   
-결과를 수로 나타낸 것이다   
-자주 나타나는 결과들
-```
-200 
 
