@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"Springboot rest api"
+title:	"Springboot list api"
 date:	2021-09-19 12:00:00
 categories:
     - blog
